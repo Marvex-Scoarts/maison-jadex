@@ -15,6 +15,6 @@ Maison Jadex is an editorial restaurant experience featuring a seasonal tasting 
 * **Interactive Table Reservation Modal:** Formats the guest's chosen date, 12-hour AM/PM time, party size, and special requests into an instant confirmation card.
 
 ## Built With
-* **HTML5** — Semantic restaurant layout & custom SVG monogram favicon
+* **HTML5** — Semantic restaurant layout
 * **CSS3** — Custom variables, CSS Grid, Flexbox, and smooth hover transitions
 * **Vanilla JavaScript** — Live date/time formatting and interactive reservation modal
