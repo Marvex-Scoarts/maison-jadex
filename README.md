@@ -6,7 +6,7 @@
 Maison Jadex is an editorial restaurant experience featuring a seasonal tasting menu, visual dish gallery, opening hours, and a live table reservation system.
 
 ## Design & Aesthetic
-* **Color Palette:** Deep Botanical Emerald (`#132A20`) and Warm Ivory (`#FAF7F2`) surfaces accented with Champagne Gold (`#C8A97E`) borders and serif typography.
+* **Color Palette:** Deep Botanical Emerald and Warm Ivory surfaces accented with Champagne Gold borders and serif typography.
 * **Typography:** Pairs *Cormorant Garamond* editorial headings with clean *Plus Jakarta Sans* copy.
 
 ## Features
